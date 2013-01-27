@@ -1,0 +1,227 @@
+.span8.columns{
+        width: 100%;
+        margin: 0px;
+}
+.lesson#app {
+        width: 100%;
+        padding: 0;
+        border: 0px;
+}
+
+#topbar {
+}
+
+#wrapper {
+}
+
+#app.home {
+        width: 100%;
+        padding: 0 !important;
+        border: 0px;
+        background: #F2F2F2;
+        
+}
+
+.post-activity textarea.post {
+        width: 100%;
+}
+
+.post-activity textarea.post.focus {
+        padding: 0;
+}
+
+.post-activity {
+        width: 100%;
+        margin: 0;
+}
+
+.activity-stream {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+}
+
+.home-tabs {
+        margin: 0 !important;
+        padding-left: 0;
+        width: 100%;
+}
+
+.home-left {
+        width: 100% !important;
+}
+
+.home-left.span10 {
+        width: 100% !important;
+}
+
+.row .span5-5 {
+        width: 100%;
+}
+
+.white-inset-box .switch-progress > li.overall {
+        border: 0;
+        
+}
+
+.white-inset-box .switch-progress > li {
+        width: 50%;
+}
+
+.user-pane-small {
+        margin: 0px;
+        padding: 0px;
+}
+
+.language-progress {
+        padding: 0;
+}
+
+.row .span10 {
+        width: 100% !important;
+}
+
+.row [class*="span"] {
+        margin-left: 0;
+}
+
+#skill-canvas {
+        left: -105px;
+        display: none;
+}
+
+.skill-box {
+        padding-left: 5px;
+}
+
+#skill-grid .skill-row .skill-span {
+        width: 105px;
+}
+
+.skill-box .header {
+        display: none;
+}
+
+#skill-grid {
+        margin: 0;
+}
+
+#app.help {
+        width: 100%;
+        padding: 0;
+        border: 0px;
+}
+
+.issues {
+        width: 100%;
+        margin: 3px;
+}
+
+.help-image {
+        width: 100%;
+}
+
+.slow-button {
+        position: relative;
+        top: 0;
+        float: left;
+}
+
+.player-header {
+        width: 100%;
+        margin: 0;
+}
+
+.topbar.taller{
+        min-width: 0px;
+        width: 100%;
+}
+
+.topbar .container-full-width#header {
+        min-width: 0px;
+        width: 100%;
+        margin: 0;
+}
+
+.top-search {
+        display: none;
+}
+
+#topbar-menu .nav {
+        display:none;
+}
+
+.user-nav {
+        display: none;
+}
+
+.user-nav.language-switcher {
+        display: block;
+}
+
+.main div.inner {
+        width: 100%;
+}
+
+#controls .row .right {
+        float: left;
+        padding: 20px;
+}
+
+#controls {
+        padding: 0;
+        margin: 0;
+}
+
+#controls .row {
+        margin-left: 0px;
+}
+
+.textarea-arrow {
+        display: none;
+}
+
+#text-input {
+        width: 100%;
+        padding: 0px;
+}
+
+#word-input {
+}
+
+#toogle_vkeyboard {
+        position: relative;
+}
+
+.challenge.row {
+        margin: 0;
+}
+
+.grade-feedback-new .correct-solution { 
+        padding: 0;
+        margin: 10px;
+}
+
+#graded-text-input {
+        padding: 10px 0px 10px 0px;
+        width: 100%;
+}
+
+
+.grade-feedback-new {
+        width: 100%;
+        margin: 0;
+}
+
+.correct-solution {
+        width: 100%;
+}
+
+.grade-feedback-new .correct-solution {
+        width: 100%;
+        margin: 10px;
+}
+
+.row {
+        margin-left: 0px;
+}
